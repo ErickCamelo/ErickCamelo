@@ -1,6 +1,14 @@
 <h1 align="center">Hola 👋, soy Erick Duvan Camelo</h1>
 <h3 align="center">Ayudo a generar soluciones en analítica e integración de datos, elaboración y optimización de consultas SQL además de la construcción de dashboard y reportes. Poseo manejo en herramientas referentes a los paquetes de IBM Cloud, Microsoft y Oracle así como conocimientos en lenguajes de programación como Python y Java.</h3>
 
+- 🔭 Actualmente trabajo en analítica de datos y BI en **IBM Cognos, Python y SQL**
+
+- 🌱 Considero que aprender es parte del **día a día**
+
+- 🤝 Me identifico por ser una persona **responsable y respetuosa**
+
+- 💬 Puedes preguntarme sobre temas en **analítica de datos y ml**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ecamelo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ecamelo/" height="30" width="40" /></a>
